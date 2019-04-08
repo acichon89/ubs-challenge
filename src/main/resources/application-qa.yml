@@ -1,0 +1,4 @@
+underlying-price:
+  internal-rest-calls:
+    connection:
+      url: http://www.example.com
